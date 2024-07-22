@@ -5,3 +5,5 @@
 var myVar = "Hello, world!";
 ```
 
+- [ ] Turn on GitHub Pages
+
